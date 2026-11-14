@@ -1,0 +1,19 @@
+{
+  "top_k_learned_in_physical": {
+    "top1": 0.2737430167597765,
+    "top5": 0.16089385474860335,
+    "top10": 0.12723463687150838,
+    "top20": 0.09252793296089386
+  },
+  "phys_neighbors_in_learned_topk": {
+    "top10": 0.05260118944511808,
+    "top20": 0.0765055719152376
+  },
+  "mean_geodist_physical_top10": 5.886572046187609,
+  "mean_geodist_learned_top10": 22.99011072758747,
+  "mean_geodist_random_pair": 27.09164706813094,
+  "mean_absflowcorr_learned_top10": 0.8921303974585585,
+  "mean_absflowcorr_physical_top10": 0.8604780587575039,
+  "same_corridor_learned_top10": 0.3656424581005586,
+  "same_corridor_physical_top10": 0.7048882681564247
+}

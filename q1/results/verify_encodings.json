@@ -1,0 +1,7 @@
+{
+  "K8_triples": 164,
+  "distinct_sum_vectors": 164,
+  "distinct_mean_vectors": 118,
+  "distinct_max_vectors": 7,
+  "part_b_all_K_1_to_16": "all triples decode correctly"
+}

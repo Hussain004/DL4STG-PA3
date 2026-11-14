@@ -1,0 +1,9 @@
+{
+  "off_diag_physical": 17319,
+  "learned_above_1e-3": 55200,
+  "learned_above_1e-3_frac": 0.10767454199307137,
+  "median_top10_row_mass": 0.5648576021194458,
+  "physical_in_learned_support": 3087,
+  "top10_learned_in_physical": 911,
+  "top10_in_physical_frac": 0.12723463687150838
+}

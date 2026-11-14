@@ -1,0 +1,39 @@
+{
+  "N_sensors": 40,
+  "part_ai": {
+    "a": 0.0,
+    "b": 0.4999999999999999,
+    "sse": 0.5
+  },
+  "part_aii": {
+    "x0_mass": 5.013256549262001,
+    "model_peak_t20": 0.4046884632675136,
+    "true_peak_t20": 1.0,
+    "model_argmax_t20": 20,
+    "true_argmax_t20": 0,
+    "model_mass_t20": 5.0132565492620005,
+    "true_mass_t20": 5.0132565492620005
+  },
+  "part_b": {
+    "a": 0,
+    "w_minus": 0,
+    "w_plus": 1,
+    "kernel_[i-1,i,i+1]": [
+      0,
+      0,
+      1
+    ]
+  },
+  "part_ci": {
+    "a": 0,
+    "b": 1,
+    "c": -1,
+    "random_pairs_exact": 100
+  },
+  "part_cii": {
+    "a": 0,
+    "b": 1,
+    "c": -1,
+    "forward_motion_exact": true
+  }
+}

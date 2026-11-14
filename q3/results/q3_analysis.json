@@ -1,0 +1,54 @@
+{
+  "selected_sensor": {
+    "index": 33,
+    "ID": 1126411,
+    "highway": "I5-N",
+    "direction": "N",
+    "county": "San Diego",
+    "district": 11,
+    "ID2": 6964,
+    "degree": 20,
+    "one_hop_neighbors": [
+      1114805,
+      1114035,
+      1108547,
+      1118707,
+      1117871,
+      1108615,
+      1117818,
+      1126426,
+      1114806,
+      1108711,
+      1108693,
+      1111514,
+      1113486,
+      1115356,
+      1115413,
+      1115432,
+      1115438,
+      1116574,
+      1115528,
+      1115517
+    ],
+    "one_hop_count": 20,
+    "two_hop_count": 53,
+    "two_hop_neighbors_total_excl_self": 73
+  },
+  "degree": {
+    "mean": 24.18854748603352,
+    "min": 0,
+    "max": 70,
+    "median": 20.0,
+    "zero_neighbor_sensors": 8
+  },
+  "week": {
+    "start": "2021-06-07",
+    "end": "2021-06-13",
+    "samples": 672,
+    "sensors": {
+      "I-5": "1114091",
+      "I-8": "1111514",
+      "I-15": "1119689"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "model": "temporal",
+  "seed": 0,
+  "epochs": 20,
+  "dim": 32,
+  "batch": 128,
+  "lr": 0.001,
+  "params": 4420,
+  "train_seconds": 74.90130519866943,
+  "seconds_per_epoch": 3.7450652599334715,
+  "train_mean": 607.1699829101562,
+  "train_std": 483.35162353515625,
+  "val_mae": 69.60991707687546,
+  "val_rmse": 109.69015156503974,
+  "test_mae": 75.72652725289821,
+  "test_rmse": 117.01210748456899,
+  "windows": {
+    "train": 35125,
+    "val": 8629,
+    "test": 26389
+  },
+  "hardware": "NVIDIA GeForce RTX 5060 Ti (16 GB)"
+}

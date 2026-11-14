@@ -1,0 +1,15 @@
+# LaTeX: the compiled PDF is committed, the build intermediates are not.
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# The assignment sheet is kept locally but not in the repo.
+DL4STG_PA3.pdf

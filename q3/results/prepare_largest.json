@@ -1,0 +1,107 @@
+{
+  "sd_sensors": 716,
+  "years": {
+    "2020": {
+      "raw_shape": [
+        105408,
+        8600
+      ],
+      "raw_missing_cells": 7413833,
+      "raw_sd_missing_cells": 3095400,
+      "raw_sd_missing_frac": 0.04101381638530187,
+      "raw_cols_with_missing": 8600,
+      "raw_all_missing_cols": 39,
+      "raw_min_value": 0.0,
+      "raw_integer_valued": true,
+      "ceiling_999_cells": 82,
+      "per_lane_peak_median": 161.0,
+      "per_lane_peak_p90": 191.88,
+      "genuine_zero_cells": 213158,
+      "genuine_zero_frac": 0.0029451179390148725,
+      "daytime_zero_cells": 18582,
+      "daytime_zero_frac_of_day_cells": 0.00047398855785193343,
+      "gap_events": 5463,
+      "frac_events_le_1h": 0.9264140582097748,
+      "frac_cells_outage_ge_1d": 0.9893936163339149,
+      "resampled_shape": [
+        35136,
+        8600
+      ],
+      "resampled_missing_cells": 1034655,
+      "resampled_missing_frac": 0.04112730198888787,
+      "partial_windows": 4992,
+      "partial_windows_frac": 0.00019843086973776597,
+      "sd_shape": [
+        35136,
+        716
+      ],
+      "sd_zero_cells": 1071422,
+      "sd_zero_frac": 0.04258878191429821,
+      "sd_all_zero_sensors": 19,
+      "pooled_mean_with_zeros": 582.1986694335938,
+      "pooled_std_with_zeros": 488.42449951171875,
+      "pooled_mean_excluding_filled": 607.1699829101562,
+      "pooled_std_excluding_filled": 483.35162353515625
+    },
+    "2021": {
+      "raw_shape": [
+        105120,
+        8600
+      ],
+      "raw_missing_cells": 8455475,
+      "raw_sd_missing_cells": 4541266,
+      "raw_sd_missing_frac": 0.06033628500123296,
+      "raw_cols_with_missing": 8600,
+      "raw_all_missing_cols": 52,
+      "raw_min_value": 0.0,
+      "raw_integer_valued": true,
+      "ceiling_999_cells": 73,
+      "per_lane_peak_median": 161.0,
+      "per_lane_peak_p90": 190.85000000000005,
+      "genuine_zero_cells": 188860,
+      "genuine_zero_frac": 0.002670355941225248,
+      "daytime_zero_cells": 17213,
+      "daytime_zero_frac_of_day_cells": 0.0004492936734371331,
+      "gap_events": 3795,
+      "frac_events_le_1h": 0.9409749670619236,
+      "frac_cells_outage_ge_1d": 0.9953523973270889,
+      "resampled_shape": [
+        35040,
+        8600
+      ],
+      "resampled_missing_cells": 1515634,
+      "resampled_missing_frac": 0.060411166169230375,
+      "partial_windows": 3280,
+      "partial_windows_frac": 0.00013073646080457132,
+      "sd_shape": [
+        35040,
+        716
+      ],
+      "sd_zero_cells": 1548516,
+      "sd_zero_frac": 0.0617217991887962,
+      "sd_all_zero_sensors": 43,
+      "pooled_mean_with_zeros": 657.380126953125,
+      "pooled_std_with_zeros": 532.9808349609375,
+      "pooled_mean_excluding_filled": 699.6466064453125,
+      "pooled_std_excluding_filled": 522.2655029296875
+    }
+  },
+  "adjacency": {
+    "shape": [
+      716,
+      716
+    ],
+    "nonzero_entries_incl_diagonal": 18035,
+    "nonzero_entries_excl_diagonal": 17319,
+    "diagonal_value": 1.0,
+    "symmetric": false,
+    "max_abs_diff_vs_transpose": 0.9999998696620915,
+    "asymmetric_entries": 21022,
+    "degree_mean": 24.18854748603352,
+    "degree_min": 0,
+    "degree_max": 70,
+    "degree_median": 20.0,
+    "sensors_with_zero_neighbors": 8,
+    "sparsity_frac_nonzero": 0.03517953559501888
+  }
+}
